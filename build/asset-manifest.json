@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5468b00a.css",
+    "main.js": "/static/js/main.2b3b81f6.js",
+    "static/js/787.86a868da.chunk.js": "/static/js/787.86a868da.chunk.js",
+    "static/media/hd.png": "/static/media/hd.6657c4318f87253e8f63.png",
+    "static/media/onboarding.png": "/static/media/onboarding.70543abe4cb721e98137.png",
+    "static/media/book.png": "/static/media/book.46dbef177029e0f4f6fa.png",
+    "static/media/nyc.png": "/static/media/nyc.c6ef74b49d97869299e2.png",
+    "static/media/Elgun Garayev's resume.pdf": "/static/media/Elgun Garayev's resume.a9d5f14d2afd4d083ef7.pdf",
+    "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/calculator.png": "/static/media/calculator.81f3d02cbb63534b3076.png",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/eco.png": "/static/media/eco.c22bc52270ab855e0ad6.png",
+    "static/media/music.png": "/static/media/music.81850fa5b63753d50e05.png",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/chorme.svg": "/static/media/chorme.b0bd08e3d4226484ce842d3453b979e9.svg",
+    "index.html": "/index.html",
+    "main.5468b00a.css.map": "/static/css/main.5468b00a.css.map",
+    "main.2b3b81f6.js.map": "/static/js/main.2b3b81f6.js.map",
+    "787.86a868da.chunk.js.map": "/static/js/787.86a868da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5468b00a.css",
+    "static/js/main.2b3b81f6.js"
+  ]
+}
