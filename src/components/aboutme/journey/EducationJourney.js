@@ -15,7 +15,7 @@ function EducationJourney() {
         <Link className="btn btn-primary m-1" to="/educationjourney">
           Educational Journey
         </Link>
-        
+
         <Link className="btn btn-primary m-1" to="/technicaljourney">
           Technical Journey
         </Link>
@@ -33,55 +33,14 @@ function EducationJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2020-2024"
+          date="2024 (APRIL-DECEMBER)"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h4 className="vertical-timeline-element-title">
-            Baku State University
-          </h4>
+          icon={<SchoolIcon />}>
+          <h4 className="vertical-timeline-element-title">CODE ACADEMY</h4>
           <h4 className="vertical-timeline-element-subtitle mt-2">
-          Applied mathematics and cybernetics Faculty
+            MERN-stack WEB Development, Graduated
           </h4>
-          <p>
-          Informatics teacher GPA 80
-          </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2023 (FEBRUARY-JULY)"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h4 className="vertical-timeline-element-title">
-          CODE ACADEMY 
-
-          </h4>
-          <h4 className="vertical-timeline-element-subtitle mt-2">
-          MERN-stack WEB Development, Graduated 
-          </h4>
-          <p>
-           Diploma and Certification
-          </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="2024"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h4 className="vertical-timeline-element-title">Harward Academy</h4>
-          <h4 className="vertical-timeline-element-subtitle mt-2">
-           
-          </h4>
-          <p>
-          English language 
-          </p>
-        <p>Certification (Pre-intermediate)</p>
+          <p>Diploma and Certification</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

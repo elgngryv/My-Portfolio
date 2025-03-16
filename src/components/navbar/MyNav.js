@@ -85,7 +85,7 @@ export default function MyNav() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Gultekinn/InternIntelligence_Portfolio"
+                href="https://github.com/elgngryv/My-Portfolio"
                 target="_blank"
                 className="fork-btn-inner">
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}

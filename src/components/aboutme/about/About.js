@@ -17,61 +17,50 @@ const About = () => {
                 speed="1"
                 style={{ width: "100%", height: "90%" }}
                 loop
-                autoplay
-              ></lottie-player>
+                autoplay></lottie-player>
             </Slide>
           </Col>
 
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple"> Elgun Garayev </b>
-                and I am a{" "}
+                My name is <b className="purple"> Elgun Garayev </b> and I am a{" "}
+                <b className="purple"> Full Stack Developer</b>.
+                <br />
+                <br />
+                Tools I have good knowledge of: &nbsp;
+                <b className="purple"> Visual Studio Code, Postman.</b>
+                <br />
+                <br />
+                Experience working with: &nbsp;
                 <b className="purple">
-                  {" "}
-                  Applied mathematics and cybernetics Faculty | Informatics
-                  teacher
-                </b>{" "}
-                student at <b className="purple">Baku State University </b>
-                in Baku, Azerbaijan.
-                <br />
-                <br />
-                Good knowledge on tool  &nbsp;
-                <b className="purple">  Visual Studio, Visual Studio Code, Postman.
+                  Bootstrap, Material UI, Ant Design, Chakra UI, Tailwind CSS.{" "}
                 </b>
                 <br />
                 <br />
-                Experience of working on &nbsp;
+                Databases and state management: &nbsp;
                 <b className="purple">
-                  {" "}
-                  Bootstrap, Material UI , AntDesign,ChakraUI,Tailwind css.{" "}
+                  Firebase, MongoDB, Mongoose, Redux Toolkit, Context API.{" "}
                 </b>
                 <br />
                 <br />
-                Skilled in developing systems built on &nbsp;
+                Technologies I actively use and have worked on projects with:
+                &nbsp;
                 <b className="purple">
-                  {" "}
-                 FireBase, MongoDB , Mongoose, Redux Toolkit, Context.{" "}
+                  React.js, Node.js, Next.js, Express.js, JavaScript,
+                  TypeScript, HTML5, CSS3, SASS.{" "}
                 </b>
                 <br />
                 <br />
-                Active used and I have project &nbsp;
+                Whenever possible, I am passionate about{" "}
                 <b className="purple">
-                  {" "}
-                  ReactJs, Node Js ,Next Js ExpressJs, JavaScript,TypeScript,HTML5, CSS3, SASS. .{" "}
-                </b>
-                <br />
-                <br />
-                Whenever possible, I also apply my passion for developing
-                products with &nbsp;
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks.
+                  applying modern JavaScript libraries and frameworks.
                 </b>
                 <br />
                 <br />
                 In my free time, I enjoy learning new technologies and &nbsp;
                 <b className="purple">
+                  {" "}
                   building new web technologies and products.{" "}
                 </b>
               </p>
